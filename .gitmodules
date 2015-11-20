@@ -1,0 +1,3 @@
+[submodule "Leaflet.RotatedMarker"]
+	path = Leaflet.RotatedMarker
+	url = git@github.com:bbecquet/Leaflet.RotatedMarker.git
